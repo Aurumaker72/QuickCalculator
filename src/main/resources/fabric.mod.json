@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "quickcalculator",
+  "version": "${version}",
+
+  "name": "Quick Calculator",
+  "description": "Provides a neat mathematical expression parser GUI",
+  "authors": [
+    "Aurumaker72"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/quickcalculator/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.aurumaker.quickcalculator.QuickCalculator"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
