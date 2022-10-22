@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Version-1.19.x-blueviolet?style=for-the-badge"/>
 </p>
 
+![grafik](https://user-images.githubusercontent.com/48759429/197339431-c0eda38f-c65c-4c53-9c23-45044d74ee83.png)
 
 ## Usage
 1. Press <kbd>N</kbd> to open the GUI. This can be configured in the keybind settings.
